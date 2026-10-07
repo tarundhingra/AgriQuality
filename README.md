@@ -97,9 +97,6 @@ Retrieved Evidence: "Moisture above 14.0% is highly dangerous for storage."
 
 Actionable Step: Reject the lot and notify ABC Traders of the moisture violation.
 
-(Add screenshots of your Streamlit UI here)
-![Screenshot 1](link_to_image)
-![Screenshot 2](link_to_image)
 
 ⚠️ Limitations & Future Improvements
 No Real Database: Currently uses flat JSON files for explainability. A production version would integrate PostgreSQL or a data warehouse.
