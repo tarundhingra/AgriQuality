@@ -1,0 +1,22 @@
+AGRI-COMMODITY QUALITY GUIDELINES (DEMONSTRATION)
+
+WHEAT:
+- Moisture: Ideal range is 10.0% to 12.0%. Anything above 12.0% risks fungal growth and requires a RETEST or REJECT depending on severity. Moisture above 14.0% is highly dangerous for storage.
+- Protein: Ideal range is 11.0% to 14.0%. Below 11.0% is considered low-grade for baking.
+- Broken Grains: Must be below 5.0%. 
+- Foreign Matter: Must be strictly below 1.0%.
+
+RICE:
+- Moisture: Ideal is below 14.0%.
+- Broken Grains: Premium grade allows up to 5.0%. Standard grade allows up to 15.0%.
+- Foreign Matter: Must be below 0.5%.
+
+MAIZE:
+- Moisture: Ideal is 13.0% to 14.0%. Above 15.0% risks aflatoxin.
+- Broken Grains: Must be below 4.0%.
+- Foreign Matter: Must be below 1.5%.
+
+PROCUREMENT ACTION RULES:
+- If any critical parameter (Moisture or Foreign Matter) is slightly out of bounds, mandate a RETEST.
+- If multiple parameters are out of bounds, or one is severely out of bounds (e.g., Wheat moisture > 14%), REJECT the lot.
+- Check supplier history: If a supplier has a deteriorating trend, downgrade borderline ACCEPTs to RETESTs.

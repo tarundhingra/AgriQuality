@@ -1,0 +1,29 @@
+[
+  {
+    "supplier_name": "ABC Traders",
+    "location": "Punjab",
+    "total_lots": 120,
+    "accepted_lots": 90,
+    "rejected_lots": 15,
+    "retest_lots": 15,
+    "recent_quality_trend": "Deteriorating (increasing moisture levels)"
+  },
+  {
+    "supplier_name": "Kisan Agri Farms",
+    "location": "Haryana",
+    "total_lots": 300,
+    "accepted_lots": 290,
+    "rejected_lots": 5,
+    "retest_lots": 5,
+    "recent_quality_trend": "Highly consistent, premium quality"
+  },
+  {
+    "supplier_name": "Global Grain Co.",
+    "location": "Madhya Pradesh",
+    "total_lots": 50,
+    "accepted_lots": 20,
+    "rejected_lots": 20,
+    "retest_lots": 10,
+    "recent_quality_trend": "Highly erratic, frequent foreign matter issues"
+  }
+]

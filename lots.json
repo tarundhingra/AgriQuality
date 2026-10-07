@@ -1,0 +1,24 @@
+[
+  {
+    "lot_id": "W-104",
+    "commodity": "Wheat",
+    "supplier": "ABC Traders",
+    "moisture": 14.2,
+    "protein": 10.8,
+    "broken_grains": 5.1,
+    "foreign_matter": 1.2,
+    "inspection_date": "2026-10-07",
+    "previous_decision": "PENDING"
+  },
+  {
+    "lot_id": "R-201",
+    "commodity": "Rice",
+    "supplier": "Kisan Agri Farms",
+    "moisture": 11.5,
+    "protein": 7.5,
+    "broken_grains": 2.0,
+    "foreign_matter": 0.5,
+    "inspection_date": "2026-10-06",
+    "previous_decision": "ACCEPTED"
+  }
+]
